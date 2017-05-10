@@ -2,9 +2,9 @@
 git --version
 
 # to configure git
-git config --global user.name "<user-name"
-git config --global user.email "<email-id>"
+git config --global user.name "subatheesh"
+git config --global user.email "subatheeshrt@gmail.com"
 
-# to cche git password
+# to cache git password
 # Set git to use the credential memory cache
 git config --global credential.helper cache
